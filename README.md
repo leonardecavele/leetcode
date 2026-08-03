@@ -14,6 +14,32 @@ Files are named after their corresponding LeetCode problem and use the extension
 
 Solutions generally contain only the code requested by LeetCode. Some types, structures, imports or function declarations may therefore be supplied by the platform rather than included in the file.
 
+### Solutions
+
+| # | Problem | Solution |
+|---:|---|---|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [`two_sum.c`](./two_sum.c) |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [`add_two_numbers.c`](./add_two_numbers.c) |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [`longest_substring_without_repeating_characters.c`](./longest_substring_without_repeating_characters.c) |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [`median_of_two_sorted_arrays.c`](./median_of_two_sorted_arrays.c) |
+| 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [`zigzag_conversion.c`](./zigzag_conversion.c) |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [`reverse_integer.c`](./reverse_integer.c) |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [`string_to_integer_atoi.c`](./string_to_integer_atoi.c) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [`palindrome_number.py`](./palindrome_number.py) |
+| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [`iterative`](./regular_expression_matching_iterative.c) / [`recursive`](./regular_expression_matching_recursive.c) |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [`container_with_most_water.c`](./container_with_most_water.c) |
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [`integer_to_roman.c`](./integer_to_roman.c) |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [`roman_to_integer.c`](./roman_to_integer.c) |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [`longest_common_prefix.c`](./longest_common_prefix.c) |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [`valid_parentheses.c`](./valid_parentheses.c) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [`merge_two_sorted_lists.py`](./merge_two_sorted_lists.py) |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [`remove_duplicates_from_sorted_array.c`](./remove_duplicates_from_sorted_array.c) |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [`powx_n.c`](./powx_n.c) |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [`length_of_last_word.c`](./length_of_last_word.c) |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [`path_sum.c`](./path_sum.c) |
+| 135 | [Candy](https://leetcode.com/problems/candy/) | [`candy.c`](./candy.c) |
+| 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [`shortest_path_in_binary_matrix.c`](./shortest_path_in_binary_matrix.c) |
+
 ### Local testing
 
 There is no shared build target because every problem can use a different language, function signature and input format.
